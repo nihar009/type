@@ -1,0 +1,31 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+#cover{
+    background:white;
+}
+
+.title{
+    font-family:tahoma;
+    color:dimgray;
+    margin-left:50px;
+    text-align:center;
+
+    
+}
+
+#container{
+    font-family:tahoma;
+    width:900px;
+    margin-left:200px;
+}
+
+#image{
+    margin-left:100px;
+    width:100%;
+    position: static;
+    
+    
+}
